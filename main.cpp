@@ -606,5 +606,3 @@ void clearScreen(int time){
     system("cls");
 }
 
-//CsvFileInputStep* a = dynamic_cast<CsvFileInputStep*>(step);
-//dynamic_cast<TextFileInputStep*>(step) != nullptr
